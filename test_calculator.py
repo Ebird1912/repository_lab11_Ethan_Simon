@@ -1,6 +1,5 @@
-# https://github.com/YOUR_USERNAME/lab11-YOUR_INITIALS-SOLO
-# Partner 1: YOUR NAME (completed individually)
-# Partner 2: YOUR NAME (completed individually)
+# https://github.com/Ebird1912/lab11-ES (completed individually, I had an issue with my origonal partner and didnt have time to find a new one)
+# Partner 1: Ethan Simon
 
 import unittest
 from calculator import *
